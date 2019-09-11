@@ -19,6 +19,6 @@ Under the Sessions tab you can view both past and current RDP sessions. Clicking
 ![RdpMon sessions](https://files.cameyo.com/resources/rdpmon-sessions-1.png)
 
 ## License and third-party components
-[MIT](http://opensource.org/licenses/MIT)
-Copyright (c) 2019 - Cameyo Inc, by Eyal Dotan
+[MIT](http://opensource.org/licenses/MIT).
+Copyright (c) 2019 - Cameyo Inc, by Eyal Dotan.
 This project uses LiteDB for data storage.
