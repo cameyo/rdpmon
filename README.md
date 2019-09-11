@@ -14,6 +14,8 @@ The first time you run RdpMon, it installs itself as a service named "RDP Monito
 Under the Connections tab you can see RDP connections and connection attempts, grouped by IPs. IPs are marked by different colors: green=legitimate connections, red=high-intensity failed connections (likely brute-force attacks), yellow=low-intensity failed connections.
 ![RdpMon connections](https://files.cameyo.com/resources/rdpmon-connects-1.png)
 
+At the bottom, a status bar shows the overall counts:
+
 ![RdpMon status](https://files.cameyo.com/resources/rdpmon-connects-statusbar.png)
 
 ### Sessions
