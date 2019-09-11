@@ -18,7 +18,10 @@ Under the Connections tab you can see RDP connections and connection attempts, g
 Under the Sessions tab you can view both past and current RDP sessions. Clicking on a session in this list displays the processes that were / are used during this session. Live sessions are marked by a green bullet. Right-clicking on a live session allows shadowing it (=viewing the session in real time).
 ![RdpMon sessions](https://files.cameyo.com/resources/rdpmon-sessions-1.png)
 
-## License and third-party components
+## License
+
 [MIT](http://opensource.org/licenses/MIT).
+
 Copyright (c) 2019 - Cameyo Inc, by Eyal Dotan.
+
 This project uses LiteDB for data storage.
