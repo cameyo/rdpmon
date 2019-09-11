@@ -14,6 +14,8 @@ The first time you run RdpMon, it installs itself as a service named "RDP Monito
 Under the Connections tab you can see RDP connections and connection attempts, grouped by IPs. IPs are marked by different colors: green=legitimate connections, red=high-intensity failed connections (likely brute-force attacks), yellow=low-intensity failed connections.
 ![RdpMon connections](https://files.cameyo.com/resources/rdpmon-connects-1.png)
 
+![RdpMon status](https://files.cameyo.com/resources/rdpmon-connects-statusbar.png)
+
 ### Sessions
 Under the Sessions tab you can view both past and current RDP sessions. Clicking on a session in this list displays the processes that were / are used during this session. Live sessions are marked by a green bullet. Right-clicking on a live session allows shadowing it (=viewing the session in real time).
 ![RdpMon sessions](https://files.cameyo.com/resources/rdpmon-sessions-1.png)
