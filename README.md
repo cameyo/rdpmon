@@ -3,6 +3,8 @@
 ## Overview
 A monitoring tool for RDS servers that shows real-time and past RDP connections along with source IP, success and failure counts, logins, active and past session, executed processes and more.
 
+![Download](https://files.cameyo.com/downloads/rdpmon-bin/RdpMon.exe)
+
 ## RDP security and brute-force attacks
 RDP is a fantastic technology, yet it brings some security challenges along, especially when it comes to cloud machines that are directly connected to the Internet. From our own observations once a cloud-connected machine with port 3389 is discovered by several bots, it undergoes **brute-force attacks** that amount to 100K - 200K password attempts per week. And in most cases it is difficult to even know about it. Also, security vulnerabilities that are discovered from time to time such as [BlueKeep](https://en.wikipedia.org/wiki/BlueKeep) can make this even more challenging.
 Most RDP tools are designed to manage the Windows aspect of it such as users, quotas etc. But there is very little when it comes to cloud-oriented RDP security and management. RdpMon addresses the need of cloud-oriented RDP monitoring.
