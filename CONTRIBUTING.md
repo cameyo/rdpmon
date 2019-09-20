@@ -59,7 +59,7 @@ footer
 Example:
 
 ```
-fix(code-generator): fix LogIt() method
+fix: fix LogIt() method for Windows 2020
 
 This patch fixes logging for Windows Server 2020.
 
