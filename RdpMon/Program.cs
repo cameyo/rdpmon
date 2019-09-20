@@ -96,7 +96,7 @@ namespace Cameyo.RdpMon
                     {
                         var resp = MessageBox.Show(null,
                             "RdpMon will now install as a service and start collecting data.\n" +
-                            "You can uninstall this service using the command: 'rdmon.exe -uninst'",
+                            "You can uninstall this service using the command: 'rdpmon.exe -uninst'",
                             Utils.MyExe(), MessageBoxButtons.OKCancel);
                         if (resp == DialogResult.Cancel)
                         {
